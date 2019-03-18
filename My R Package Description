@@ -1,0 +1,12 @@
+Package: Jewell
+Title: Torque Calculator
+Version: 0.1
+Authors@R: "Jacob Jewell <jacobjewell@mail.usf.edu> [aut, cre]"
+Description: This package allows for the calculation of engine torque
+and of output torque. Torque can be calculated if: Power (in horsepo
+wer (ft./lbs) OR in kilowatts (N.m)) and engine RPM are known. Total 
+output torque can be calculated if engine torque and gear ratio are k
+nown.
+Depends: R (>= 3.1.2)
+License: CCO
+LazyData: true
